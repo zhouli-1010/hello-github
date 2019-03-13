@@ -12,3 +12,4 @@ Http://github.com
   1.Item2a
   1.Item2b
 ```function mark```
+GitHub の機能をためす
